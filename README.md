@@ -18,7 +18,7 @@
 
 ```bash
 # Склонируйте репозиторий 
-git clone https://daryamakavchik.github.io/test/
+git clone https://github.com/daryamakavchik/test.git
 # Зайдите в директорию с проектом
 cd test
 # Запустите проект на live-server в Chrome
