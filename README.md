@@ -5,6 +5,8 @@
 ## Описание
 Релизован блок в соответствии с макетом. По нажатию на каждую кнопку, она “открывается” для отображения подписи Повторный клик по открытой кнопке или по изображению закрывает открытую кнопку. Кнопки не теряют свою приблизительную позицию (в пределах указанных построек) на при ширине экрана в промежутке от 1920px до 1280px.
 
+<img width="1048" alt="demo" src="https://github.com/daryamakavchik/test/assets/90967822/f1460dc7-457d-4e33-804c-f1bcf599356a">
+
 ## Технологии
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
